@@ -1,0 +1,8 @@
+a=int(input('enter a:'))
+b=int(input('rnter b:'))
+c=a*b
+print(c)
+out put:
+a:5
+b:4
+20
